@@ -1,5 +1,8 @@
 {
-  "author": "Mikael Bourges-Sevenier <mikeseven@gmail.com>",
+  "author": {
+    "name": "Mikael Bourges-Sevenier",
+    "email": "mikeseven@gmail.com"
+  },
   "name": "node-webgl",
   "description": "WebGL bindings for node",
   "version": "0.4.3",
@@ -32,8 +35,33 @@
     }
   ],
   "dependencies": {
-    "bindings": "^1.2.1",
-    "nan": "^0.8.0",
-    "node-glfw": ">=0.3.0"
-  }
+    "node-glfw": ">=0.3.0",
+    "nan": ">=0.8.0"
+  },
+  "gitHead": "a120c40a9692667a36a47a1f351534a36e4239cb",
+  "gypfile": true,
+  "bugs": {
+    "url": "https://github.com/mikeseven/node-webgl/issues"
+  },
+  "homepage": "https://github.com/mikeseven/node-webgl",
+  "_id": "node-webgl@0.4.3",
+  "_shasum": "5658ad9e1362f43ae9b193fc50734cd9aae4bed0",
+  "_from": "node-webgl@>=0.4.2",
+  "_npmVersion": "1.4.14",
+  "_npmUser": {
+    "name": "mikeseven",
+    "email": "mikeseven@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "mikeseven",
+      "email": "mikeseven@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "5658ad9e1362f43ae9b193fc50734cd9aae4bed0",
+    "tarball": "http://registry.npmjs.org/node-webgl/-/node-webgl-0.4.3.tgz"
+  },
+  "_resolved": "https://registry.npmjs.org/node-webgl/-/node-webgl-0.4.3.tgz",
+  "readme": "ERROR: No README data found!"
 }
