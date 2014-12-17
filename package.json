@@ -35,7 +35,7 @@
     }
   ],
   "dependencies": {
-    "node-glfw": ">=0.3.0",
+    "node-glfw": "kjunichi/node-glfw",
     "nan": ">=0.8.0"
   },
   "gitHead": "a120c40a9692667a36a47a1f351534a36e4239cb",
